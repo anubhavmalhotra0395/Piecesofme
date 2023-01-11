@@ -1,0 +1,17 @@
+.slider-inner-header{
+    font-family: 'basic';
+    font-size: 20px;
+    padding-left: 30px;
+    font-weight: 300;
+}
+.slider-inner-headerprice{
+    font-family: 'basic';
+    color: grey;
+    font-size: 14px;
+    padding-left: 30px;
+}
+.earringsinner{
+    display: flex;
+    flex-direction: column;
+  
+}

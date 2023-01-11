@@ -1,0 +1,42 @@
+.extras-container{
+    display: flex;
+    flex-direction: row;
+    min-height:100%;
+    height: 360px;
+      background:linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('../images/hercover1.webp');
+      background-position: top;
+      background-size:cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+}
+
+.extras-inner1{
+    padding-top: 70px;
+    display: flex;
+    flex-direction: column;
+}
+
+.extras-header{
+    font-size: 30px;
+    color: white;
+    font-family: 'basic';
+}
+.extras-text{
+    font-size: 14px;
+    color: white;
+    font-family: 'basic';
+}
+
+.marquee2{
+    background-color: white !important;
+    display: flex;
+    flex-direction: row;
+    border: 3px solid black !important;
+    height: 40px !important;
+  }
+  .marquee-inner2{
+    color:black;
+    font-size: 12px;
+    margin-top: 12px;
+    margin-right: 30px;
+  }

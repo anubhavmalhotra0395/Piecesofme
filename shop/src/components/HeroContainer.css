@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'basic2';
+    src: url(../fonts/brandon-grotesque-black-58a8a3e824392.otf);
+  }
+  
+.hero-container{
+    background:url('../images/herocover3.webp') ;
+      height: 520px;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-position: top;
+      background-size: cover;
+      object-fit: cover;  
+  }
+
+  .hero-inner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .hero-main-text{
+    font-size: 70px;
+    color: white;
+    font-family: 'basic2';
+  }
+
+  .hero-btn{
+    background-color: white;
+    padding: 20px 30px;
+    border: none;
+    margin-top: 0px;
+    font-weight: 500 !important;
+    font-family: 'basic2';
+  }

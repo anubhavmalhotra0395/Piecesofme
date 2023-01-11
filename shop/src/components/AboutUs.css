@@ -1,0 +1,24 @@
+.aboutus-container{
+    display: flex;
+    column-gap: 100px;
+}
+.aboutus-inner1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.aboutus-header{
+    font-family: 'basic';
+    margin-left: -40px;
+    font-size: 60px;
+}
+.aboutus-innertext{
+    font-family: 'basic';
+}
+.aboutus-inner2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
